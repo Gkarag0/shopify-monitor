@@ -15,9 +15,10 @@
     "sites": [
         {
             "url": "bigw.com.au",
-            "keywords": [["Pokemon"]]
+            "keywords": [["Pokemon"],"One Piece"]]
         },
-        { "url": "kmart.com.au","toymate.com.au" }
+        { "url": "kmart.com.au" }
     ],
-    "proxiesList": []
+    "proxiesList": [secret-as.resilab.vip:8888:user-10014869_21-country-FJ:Ukk6Lx5oE6irZ
+]
 }
