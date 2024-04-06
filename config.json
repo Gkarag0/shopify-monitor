@@ -20,5 +20,9 @@
         },
         { "url": "www.kmart.com.au","kmart.com.au","toymate.com.au" }
     ],
-    "proxiesList": [ ]
+    "proxiesList": [secret-as.resilab.vip:8888:user-10014869_21-country-AU-city-PERTH:Ukk6Lx5oE6irZ
+secret-as.resilab.vip:8888:user-10014869_21-country-AU-city-LIVERPOOL:Ukk6Lx5oE6irZ
+secret-as.resilab.vip:8888:user-10014869_21-country-AU-city-LIVERPOOL:Ukk6Lx5oE6irZ
+secret-as.resilab.vip:8888:user-10014869_21-country-AU-city-MELBOURNE:Ukk6Lx5oE6irZ
+secret-as.resilab.vip:8888:user-10014869_21-country-AU-city-ADELAIDE:Ukk6Lx5oE6irZ]
 }
