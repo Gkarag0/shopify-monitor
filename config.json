@@ -15,10 +15,10 @@
     "keywords": [["Pokemon"]],
     "sites": [
         {
-            "url": "https://www.bigw.com.au/",
+            "url": "bigw.com.au",
             "keywords": [["Pokemon"],["One Piece"]]
         },
-        { "url": "https://www.kmart.com.au/" }
+        { "url": "www.kmart.com.au","kmart.com.au","toymate.com.au" }
     ],
     "proxiesList": [ ]
 }
