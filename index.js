@@ -24,7 +24,7 @@ try {
                             }, 4000 * i)                            
                         }
     
-                        Discord.info('Monitor successfully started, relax and stay tuned\n\nFor help open an issue on github: https://github.com/Dam998/shopify-monitor');
+                        Discord.info('Monitor successfully started, relax and stay tuned');
                     });
                 }
     
