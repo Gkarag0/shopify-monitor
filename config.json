@@ -4,7 +4,7 @@
         "https://discord.com/api/webhooks/1225372611794440292/0HWRWIv4Djw2EhVehLc-TToUS8chonpjz37-OZU5JUvG2v7YqlVKb-6vYU4-uMUA7hWV"
     ],
     "discord_message_settings": {
-        "botImage": "<img src="https://assets.pokemon.com/assets/cms2/img/misc/countries/au/country_detail_pokemon.png">",
+        "botImage": "<"https://assets.pokemon.com/assets/cms2/img/misc/countries/au/country_detail_pokemon.png">",
         "botName": "Shopify monitor",
         "footerDescription": "Pokemon",
         "footerImage": "",
