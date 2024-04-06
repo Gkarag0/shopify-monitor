@@ -19,6 +19,6 @@
         },
         { "url": "kmart.com.au" }
     ],
-    "proxiesList": [
+    "proxiesList": ["http://georgekara90:WouGBmWX39@50101:50100",
 ]
 }
